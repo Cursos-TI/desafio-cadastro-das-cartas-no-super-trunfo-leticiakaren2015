@@ -1,5 +1,6 @@
 #include <stdio.h> // Inclui a biblioteca padão de entrada e saída.
 
+
 int main(void) {
     //=====================================
     // Declaração das variáveis da Carta 1
